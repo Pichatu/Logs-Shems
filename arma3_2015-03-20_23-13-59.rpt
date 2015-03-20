@@ -1,0 +1,893 @@
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\Arma 3\arma3.exe
+== "C:\Program Files (x86)\Steam\steamapps\common\Arma 3\arma3.exe"
+
+Original output filename: Arma3Retail_DX11
+Exe timestamp: 2015/03/06 17:04:02
+Current time:  2015/03/20 23:13:59
+
+Type: Public
+Branch: Stable
+Version: 1.40.129608
+
+Allocator: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\dll\tbb4malloc_bi.dll
+=====================================================================
+
+23:13:59 ManagerConfig()
+23:13:59 Item STR_CONTROLS_TOOLTIPS_ACTION_IN_MAP listed twice
+23:13:59 Item str_usract_action_in_map listed twice
+23:14:03 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/PAPA_BEAR/
+23:14:03 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/AirBase/
+23:14:03 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/
+23:14:03 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/
+23:14:03 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/
+23:14:03 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/
+23:14:03 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/
+23:14:03 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/
+23:14:03 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/
+23:14:03 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/
+23:14:03 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/
+23:14:03 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/
+23:14:03 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/
+23:14:03 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/
+23:14:03 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/
+23:14:03 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/
+23:14:03 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/
+23:14:03 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/
+23:14:03 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/
+23:14:03 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/
+23:14:03 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/
+23:14:03 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/
+23:14:03 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/
+23:14:03 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/
+23:14:03 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/
+23:14:03 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/
+23:14:03 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/
+23:14:03 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/
+23:14:03 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/
+23:14:03 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/
+23:14:03 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/
+23:14:03 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/
+23:14:03 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/
+23:14:03 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/
+23:14:03 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/
+23:14:03 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/
+23:14:03 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/
+23:14:03 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/
+23:14:03 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/
+23:14:03 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/
+23:14:03 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/
+23:14:03 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/
+23:14:03 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/
+23:14:03 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/
+23:14:03 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/
+23:14:03 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/
+23:14:03 Updating base class RscControlsGroup->RscControlsGroupNoHScrollbars, by a3\ui_f\config.bin/RscDisplayMain/controls/ModIcons/
+23:14:03 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/
+23:14:03 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/
+23:14:03 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/
+23:14:03 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/
+23:14:03 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/
+23:14:03 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/
+23:14:03 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/
+23:14:03 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/
+23:14:03 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/controls/ButtonCancel/
+23:14:03 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+23:14:03 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/
+23:14:03 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/
+23:14:03 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/
+23:14:03 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/
+23:14:03 Cannot update non class from class a3\ui_f\config.bin/RscCallSupport/Items/
+23:14:03 Cannot update non class from class a3\ui_f\config.bin/RscRadio/Items/
+23:14:04 ragdollHitDmgLimit (0.000000) is lower than minimum (0.010000) and it was set to min.
+23:14:04 Initializing Steam Manager
+23:14:04 ManagerConfig()
+23:14:04 Starting initial content check.
+23:14:04 Steam Manager initialized.
+23:14:04 
+23:14:04 ==== Loaded addons ====
+23:14:04 
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\dta\bin.pbo - unknown
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\dta\core.pbo - 72362
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\dta\languagecore_f.pbo - 80021
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\a3.pbo - unknown
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\air_f.pbo - 79681
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\air_f_beta.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\air_f_epb.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\air_f_epc.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\air_f_gamma.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\animals_f.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\animals_f_beta.pbo - 72362
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\anims_f.pbo - 79482
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\anims_f_bootcamp.pbo - 72362
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\anims_f_data.pbo - 79675
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\anims_f_epa.pbo - 78608
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\anims_f_epc.pbo - 72362
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\armor_f.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\armor_f_beta.pbo - 79681
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\armor_f_epb.pbo - 79681
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\armor_f_epc.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\armor_f_gamma.pbo - 79681
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\baseconfig_f.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\boat_f.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\boat_f_beta.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\boat_f_epc.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\boat_f_gamma.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\cargoposes_f.pbo - 78836
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\characters_f.pbo - 79649
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\characters_f_beta.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\characters_f_bootcamp.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\characters_f_epa.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\characters_f_epb.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\characters_f_epc.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\characters_f_gamma.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\data_f.pbo - 79651
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\data_f_bootcamp.pbo - 76960
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\drones_f.pbo - 79653
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_f.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_f_beta.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_f_bootcamp.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_f_epa.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_f_epb.pbo - 76110
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_f_epc.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_f_gamma.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_radio_f.pbo - 78704
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\dubbing_radio_f_data.pbo - 78762
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\editor_f.pbo - 74164
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\functions_f.pbo - 79623
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\functions_f_bootcamp.pbo - 78988
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\functions_f_epa.pbo - 73434
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\functions_f_epc.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\languagemissions_f.pbo - 76893
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\languagemissions_f_beta.pbo - 77325
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\languagemissions_f_bootcamp.pbo - 76770
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\languagemissions_f_epa.pbo - 76770
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\languagemissions_f_epb.pbo - 79149
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\languagemissions_f_epc.pbo - 76770
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\languagemissions_f_gamma.pbo - 77098
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\language_f.pbo - 79621
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\language_f_beta.pbo - 77325
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\language_f_bootcamp.pbo - 77492
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\language_f_epa.pbo - 76769
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\language_f_epb.pbo - 77476
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\language_f_epc.pbo - 77476
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\language_f_gamma.pbo - 77365
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_altis.pbo - 80359
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_altis_data.pbo - 79087
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_altis_data_layers.pbo - 79087
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_altis_data_layers_00_00.pbo - 79087
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_altis_data_layers_00_01.pbo - 79087
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_altis_data_layers_01_00.pbo - 79087
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_altis_data_layers_01_01.pbo - 79087
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_altis_scenes_f.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_data.pbo - 73001
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_stratis.pbo - 80359
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_stratis_data.pbo - 79082
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_stratis_data_layers.pbo - 79082
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_stratis_scenes_f.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_vr.pbo - 77601
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\map_vr_scenes_f.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\misc_f.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f.pbo - 78843
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_beta.pbo - 79649
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_beta_data.pbo - 75473
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_beta_video.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_bootcamp.pbo - 79463
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_bootcamp_data.pbo - 72362
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_bootcamp_video.pbo - 75065
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_data.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epa.pbo - 79649
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epa_data.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epa_video.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epb.pbo - 79472
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epb_data.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epb_video.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epc.pbo - 79065
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epc_data.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_epc_video.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_gamma.pbo - 79649
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_gamma_data.pbo - 76877
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_gamma_video.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\missions_f_video.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\modules_f.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\modules_f_beta.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\modules_f_beta_data.pbo - 73635
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\modules_f_bootcamp.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\modules_f_data.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\modules_f_epb.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_bootcamp.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_bootcamp_music.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_epa.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_epa_music.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_epb.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_epb_music.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_epc.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_epc_music.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\music_f_music.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\plants_f.pbo - 80365
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\roads_f.pbo - 80359
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\rocks_f.pbo - 80359
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\signs_f.pbo - 80365
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\soft_f.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\soft_f_beta.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\soft_f_bootcamp.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\soft_f_epc.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\soft_f_gamma.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\sounds_f.pbo - 79437
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\sounds_f_bootcamp.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\sounds_f_epb.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\sounds_f_epc.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\sounds_f_vehicles.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\sounds_f_weapons.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\static_f.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\static_f_beta.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\static_f_gamma.pbo - 79420
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f.pbo - 80292
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_bootcamp.pbo - 80293
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_data.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_epa.pbo - 80293
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_epb.pbo - 80293
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_epc.pbo - 80293
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_households.pbo - 80293
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_ind.pbo - 80292
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_mil.pbo - 80292
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\structures_f_wrecks.pbo - 80293
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\uifonts_f.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\uifonts_f_data.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\ui_f.pbo - 79689
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\ui_f_bootcamp.pbo - 76325
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\ui_f_data.pbo - 79689
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\weapons_f.pbo - 79430
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\weapons_f_beta.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\weapons_f_bootcamp.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\weapons_f_epa.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\weapons_f_epb.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\weapons_f_epc.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\addons\weapons_f_gamma.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\air_f_heli.ebo - 79805
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\anims_f_heli.ebo - 79126
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\boat_f_heli.ebo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\cargoposes_f_heli.ebo - 79126
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\data_f_heli.ebo - 79642
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\dubbing_f_heli.ebo - 75138
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\functions_f_heli.ebo - 77667
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\languagemissions_f_heli.ebo - 76893
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\language_f_heli.ebo - 79600
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli.ebo - 79039
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli_data.ebo - 75977
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli_video.ebo - 75065
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\modules_f_heli.ebo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\music_f_heli.ebo - 76012
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\music_f_heli_music.ebo - 76012
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\soft_f_heli.ebo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\sounds_f_heli.ebo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\structures_f_heli.ebo - 80293
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\supplies_f_heli.ebo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\ui_f_heli.ebo - 76986
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\anims_f_kart.pbo - 79126
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\characters_f_kart.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\data_f_kart.pbo - 79601
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\languagemissions_f_kart.pbo - 76770
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\language_f_kart.pbo - 79532
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\missions_f_kart.pbo - 76770
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\missions_f_kart_data.pbo - 75687
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\modules_f_kart.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\modules_f_kart_data.pbo - 74588
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\soft_f_kart.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\sounds_f_kart.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\structures_f_kart.pbo - 80293
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\ui_f_kart.pbo - 73106
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\weapons_f_kart.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\data_f_curator.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\functions_f_curator.pbo - 78988
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\language_f_curator.pbo - 76769
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\missions_f_curator.pbo - 79649
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\modules_f_curator.pbo - 79398
+23:14:04 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\ui_f_curator.pbo - 78347
+23:14:04 
+23:14:04 =======================
+23:14:04 
+23:14:04 ============================================================================================= List of mods ===============================================================================================
+23:14:04 modsReadOnly = false
+23:14:04 safeModsActivated = false
+23:14:04 customMods = true
+23:14:04 hash = '12468D3D4D8AD394141CD7482BF42D36897B6394'
+23:14:04                                               name |               modDir |    default |               origin |                                     hash | fullPath
+23:14:04 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+23:14:04                                            Arma 3 |                   A3 |       true |             REGISTRY | e5d8d43cedd57daed8f53170ed0756f60302d98f | C:\Program Files (x86)\Steam\steamapps\common\Arma 3
+23:14:04                                          @WGM-mods |            @WGM-mods |      false |            NOT FOUND |                                          | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@WGM-mods
+23:14:04                                  Bundle DLC Arma 3 |            dlcbundle |       true |            NOT FOUND |                                          | 
+23:14:04                                 Arma 3 Helicopters |                 heli |       true |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli
+23:14:04                                       Arma 3 Karts |                 kart |       true |             GAME DIR | fd6185429555b98f1fb2b1b390f6a6b0f9900458 | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart
+23:14:04                                        Arma 3 Zeus |              curator |       true |             GAME DIR | c3f6ff8f14c98f5eb90c767ff89dbacb08079de0 | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator
+23:14:04 ==========================================================================================================================================================================================================
+23:14:04 DX11 - Initializing DX11 engine.
+23:14:04 DX11 - Using DXGI adapter 0 (detected in config).
+23:14:04 DX11 - Using DXGI adapter 0.
+23:14:04     - adapter description : NVIDIA GeForce GTX 770
+23:14:04     - adapter vendor ID : 4318
+23:14:04     - adapter device ID : 4484
+23:14:04     - adapter subsys ID : 673649762
+23:14:04     - adapter revision  : 161
+23:14:04     - dedicated video memory : 3221225472
+23:14:04     - dedicated system memory : 0
+23:14:04     - shared system memory : 1073676288
+23:14:04 Error: JoystickDevices - CoInitilizeEx return 80010106
+23:14:04 InitSound ...
+23:14:04 Error: CoInitilizeEx (XAudio2-1st trial) return 80010106
+23:14:04 InitSound - complete
+23:14:05 PhysX3 SDK Init started ...
+23:14:05 PhysX3 SDK Init ended.
+23:14:05 EPE manager release (0|0|0)
+23:14:05 EPE manager release (0|0|0)
+23:14:05 Attempt to override final function - rscminimap_script
+23:14:05 Attempt to override final function - rscdisplayloading_script
+23:14:05 Attempt to override final function - rscdisplayloading_script
+23:14:05 Attempt to override final function - rscdisplayloading_script
+23:14:05 Attempt to override final function - rscdiary_script
+23:14:05 Attempt to override final function - rscdisplaysinglemission_script
+23:14:05 Attempt to override final function - rscdiary_script
+23:14:05 Attempt to override final function - rscdisplayremotemissions_script
+23:14:05 Attempt to override final function - rscdisplayloading_script
+23:14:05 Attempt to override final function - rscdiary_script
+23:14:05 Attempt to override final function - rscdiary_script
+23:14:05 Attempt to override final function - rscdisplaystrategicmap_script
+23:14:05 Attempt to override final function - rscdisplaycommon_script
+23:14:05 Attempt to override final function - rscdisplayloading_script
+23:14:06 Attempt to override final function - rscdisplaycurator_script
+23:14:06 Attempt to override final function - rscdisplayattributes_script
+23:14:06 Attempt to override final function - rscdisplayattributes_script
+23:14:06 Attempt to override final function - rscdisplayattributes_script
+23:14:06 Attempt to override final function - rscdisplaycommon_script
+23:14:06 Attempt to override final function - rscdisplaydebriefing_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:06 Attempt to override final function - rscunitinfo_script
+23:14:07 SimulWeather - Cloud Renderer - noise texture file is not specified!
+23:14:11 EPE manager release (0|0|0)
+23:14:11 EPE manager release (0|0|0)
+23:14:12 EPE manager release (0|0|0)
+23:14:12 EPE manager release (0|0|0)
+23:14:12 EPE manager release (0|0|0)
+23:14:12 EPE manager release (0|0|0)
+23:14:12 Starting mission:
+23:14:12  Mission file: intro1
+23:14:12  Mission world: Stratis
+23:14:12  Mission directory: a3\map_stratis_scenes_f\scenes\intro1.Stratis\
+23:14:12 EPE manager release (0|0|0)
+23:14:12 EPE manager release (0|0|0)
+23:14:12 No more slot to add connection at 033057 (3386.8,5735.4)
+23:14:13 EPE manager release (0|0|0)
+23:14:13 EPE manager release (0|0|0)
+23:14:14 Attempt to override final function - bis_functions_list
+23:14:14 Attempt to override final function - bis_functions_listpreinit
+23:14:14 Attempt to override final function - bis_functions_listpostinit
+23:14:14 Attempt to override final function - bis_functions_listrecompile
+23:14:14 Attempt to override final function - bis_fnc_missiontaskslocal
+23:14:14 Attempt to override final function - bis_fnc_missionconversationslocal
+23:14:14 Attempt to override final function - bis_fnc_missionflow
+23:14:17 Warning: looped for animation: a3\cargoposes_f\anim\passenger_scooter_01.rtm differs (looped now 1)! MoveName: passenger_scooter_01
+23:14:17 Warning: looped for animation: a3\cargoposes_f\anim\passenger_scooter_02.rtm differs (looped now 1)! MoveName: passenger_scooter_02
+23:14:18 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_TL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_TL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_TL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:14:18 Strange convex component145 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+23:14:18 Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:13 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:14 control[CA_ServerDetailExpansion]: Unexpected control type [0]
+23:23:20 EPE manager release (0|0|0)
+23:23:20 EPE manager release (0|0|0)
+23:23:21 EPE manager release (0|0|0)
+23:23:21 EPE manager release (0|0|0)
+23:23:21 EPE manager release (0|0|0)
+23:23:21 EPE manager release (0|0|0)
+23:23:31 EPE manager release (0|0|0)
+23:23:31 EPE manager release (0|0|0)
+23:23:31 EPE manager release (0|0|0)
+23:23:31 EPE manager release (0|0|0)
+23:23:31 Unsupported language French in stringtable
+23:23:32 Cannot find a sound file a3\sounds_f\arsenal\weapons\longrange\lynx\dry_lynx.wss
+23:23:32 Starting mission:
+23:23:32  Mission file: __cur_mp (__CUR_MP)
+23:23:32  Mission world: Altis
+23:23:32  Mission directory: mpmissions\__CUR_MP.Altis\
+23:23:32 EPE manager release (0|0|0)
+23:23:32 EPE manager release (0|0|0)
+23:23:36 Strange convex component08 in a3\structures_f_epb\civ\garbage\garbagecontainer_closed_f.p3d:geometryView
+23:23:36 Strange convex component10 in a3\structures_f_epb\civ\garbage\garbagecontainer_closed_f.p3d:geometryView
+23:23:36 Strange convex component01 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+23:23:36 Strange convex component02 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+23:23:36 Strange convex component03 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+23:23:36 Strange convex component04 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+23:23:38 EPE manager release (0|0|0)
+23:23:38 EPE manager release (0|0|0)
+23:23:39 Error in expression <_Transport_04_covered_F",800000];
+};
+};
+};
+
+_return;>
+23:23:39   Error position: <};
+
+_return;>
+23:23:39   Error { manquante
+23:23:39 File mpmissions\__CUR_MP.Altis\core\config\fn_vehicleListCfg.sqf, line 210
+23:23:39 Error in expression <_Transport_04_covered_F",800000];
+};
+};
+};
+
+_return;>
+23:23:39   Error position: <};
+
+_return;>
+23:23:39   Error { manquante
+23:23:39 File mpmissions\__CUR_MP.Altis\core\config\fn_vehicleListCfg.sqf, line 210
+23:23:39 Attempt to override final function - bis_functions_list
+23:23:39 Attempt to override final function - bis_functions_listpreinit
+23:23:39 Attempt to override final function - bis_functions_listpostinit
+23:23:39 Attempt to override final function - bis_functions_listrecompile
+23:23:39 Attempt to override final function - bis_fnc_missiontaskslocal
+23:23:39 Attempt to override final function - bis_fnc_missionconversationslocal
+23:23:39 Attempt to override final function - bis_fnc_missionflow
+23:24:02 Strange convex component53 in a3\structures_f_epb\civ\playground\slidecastle_f.p3d:geometryFire
+23:24:02 Strange convex component27 in a3\structures_f_epb\civ\playground\slidecastle_f.p3d:geometryView
+23:24:02 Error: Wheel reference not initialized
+23:24:09 Fresnel n must be >0, given n=0,k=10
+23:24:12 Strange convex component322 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+23:24:12 Strange convex component327 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+23:24:22 Attempt to override final function - bis_fnc_endmission
+23:24:22 Attempt to override final function - bis_fnc_endmission
+23:24:22 Attempt to override final function - w_o_o_k_i_e_anti_anti_hax
+23:24:22 Attempt to override final function - w_o_o_k_i_e_fud_anti_anti_hax
+23:24:22 Attempt to override final function - bis_fnc_preload_server
+23:24:22 "------------------------------------------------------------------------------------------------------"
+23:24:22 "--------------------------- Debut de l'initialisation du Client Altis Life ---------------------------"
+23:24:22 "------------------------------------------------------------------------------------------------------"
+23:24:22 "::Life Client:: Initialisation des Variables"
+23:24:22 "::Life Client:: Variables initialisé"
+23:24:22 "::Life Client:: Mise en place des gestionnaires d'événements"
+23:24:22 "::Life Client:: EventHandlers mis en place"
+23:24:22 "::Life Client:: Mise en place des actions d'utilisateurs"
+23:24:22 "::Life Client:: Actions d'utilisateurs mis en place"
+23:24:22 "::Life Client:: En attente du transférere des fonctions du serveur.."
+23:24:22 "::Life Client:: Reception des fonctions du serveur."
+23:24:22 "::Life Client:: Le serveur est prêt.."
+23:24:25 Fresnel k must be >0, given n=2.51,k=0

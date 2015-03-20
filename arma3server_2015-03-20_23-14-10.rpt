@@ -1,0 +1,552 @@
+=====================================================================
+== D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\arma3server.exe
+== .\arma3server.exe  -port=2302 -mod=@life_server;@extDB -config=cfg\server.cfg -noCB -maxMem=4096 -cpuCount=4
+
+Original output filename: Arma3Retail_Server
+Exe timestamp: 2015/03/02 15:29:40
+Current time:  2015/03/20 23:14:10
+
+Type: Public
+Branch: Stable
+Version: 1.40.129533
+
+Allocator: D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\dll\tbb4malloc_bi.dll
+=====================================================================
+
+23:14:10 ManagerConfig()
+23:14:10 Item STR_CONTROLS_TOOLTIPS_ACTION_IN_MAP listed twice
+23:14:10 Item str_usract_action_in_map listed twice
+23:14:18 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/PAPA_BEAR/
+23:14:18 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/AirBase/
+23:14:18 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/
+23:14:18 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/
+23:14:18 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/
+23:14:18 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/
+23:14:18 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/
+23:14:18 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/
+23:14:18 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/
+23:14:18 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/
+23:14:18 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/
+23:14:18 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/
+23:14:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/
+23:14:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/
+23:14:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/
+23:14:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/
+23:14:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/
+23:14:18 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/
+23:14:18 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/
+23:14:18 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/
+23:14:18 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/
+23:14:18 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/
+23:14:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/
+23:14:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/
+23:14:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/
+23:14:18 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/
+23:14:18 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/
+23:14:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/
+23:14:18 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/
+23:14:18 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/
+23:14:18 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/
+23:14:18 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/
+23:14:18 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/
+23:14:18 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/
+23:14:18 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/
+23:14:18 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/
+23:14:18 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/
+23:14:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/
+23:14:18 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/
+23:14:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/
+23:14:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/
+23:14:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/
+23:14:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/
+23:14:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/
+23:14:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/
+23:14:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/
+23:14:18 Updating base class RscControlsGroup->RscControlsGroupNoHScrollbars, by a3\ui_f\config.bin/RscDisplayMain/controls/ModIcons/
+23:14:18 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/
+23:14:18 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/
+23:14:18 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/
+23:14:18 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/
+23:14:18 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/
+23:14:18 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/
+23:14:18 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/
+23:14:18 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/
+23:14:19 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/controls/ButtonCancel/
+23:14:19 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+23:14:19 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/
+23:14:19 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/
+23:14:19 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/
+23:14:19 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/
+23:14:19 Cannot update non class from class a3\ui_f\config.bin/RscCallSupport/Items/
+23:14:19 Cannot update non class from class a3\ui_f\config.bin/RscRadio/Items/
+23:14:19 ragdollHitDmgLimit (0.000000) is lower than minimum (0.010000) and it was set to min.
+23:14:19 Initializing Steam Manager
+23:14:19 ManagerConfig()
+23:14:19 Starting initial content check.
+23:14:19 Steam Manager initialized.
+23:14:19 
+23:14:19 ==== Loaded addons ====
+23:14:19 
+23:14:19 dta\bin.pbo - unknown
+23:14:19 dta\core.pbo - 72362
+23:14:19 dta\languagecore_f.pbo - 80021
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@life_server\addons\life_server.pbo - unknown
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\air_f_heli.ebo - 79805
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\anims_f_heli.ebo - 79126
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\boat_f_heli.ebo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\cargoposes_f_heli.ebo - 79126
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\data_f_heli.ebo - 79642
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\dubbing_f_heli.ebo - 75138
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\functions_f_heli.ebo - 77667
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\languagemissions_f_heli.ebo - 76893
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\language_f_heli.ebo - 79600
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\missions_f_heli.ebo - 79039
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\missions_f_heli_data.ebo - 75977
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\missions_f_heli_video.ebo - 75065
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\modules_f_heli.ebo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\music_f_heli.ebo - 76012
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\music_f_heli_music.ebo - 76012
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\soft_f_heli.ebo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\sounds_f_heli.ebo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\structures_f_heli.ebo - 80293
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\supplies_f_heli.ebo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli\addons\ui_f_heli.ebo - 76986
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\anims_f_kart.pbo - 79126
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\characters_f_kart.pbo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\data_f_kart.pbo - 79601
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\languagemissions_f_kart.pbo - 76770
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\language_f_kart.pbo - 79532
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\missions_f_kart.pbo - 76770
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\missions_f_kart_data.pbo - 75687
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\modules_f_kart.pbo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\modules_f_kart_data.pbo - 74588
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\soft_f_kart.pbo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\sounds_f_kart.pbo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\structures_f_kart.pbo - 80293
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\ui_f_kart.pbo - 73106
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart\addons\weapons_f_kart.pbo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\curator\addons\data_f_curator.pbo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\curator\addons\functions_f_curator.pbo - 78988
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\curator\addons\language_f_curator.pbo - 76769
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\curator\addons\missions_f_curator.pbo - 79649
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\curator\addons\modules_f_curator.pbo - 79398
+23:14:19 D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\curator\addons\ui_f_curator.pbo - 78347
+23:14:19 addons\a3.pbo - unknown
+23:14:19 addons\air_f.pbo - 79681
+23:14:19 addons\air_f_beta.pbo - 79398
+23:14:19 addons\air_f_epb.pbo - 79398
+23:14:19 addons\air_f_epc.pbo - 79398
+23:14:19 addons\air_f_gamma.pbo - 79398
+23:14:19 addons\air_f_rtd.pbo - 76933
+23:14:19 addons\animals_f.pbo - 79398
+23:14:19 addons\animals_f_beta.pbo - 72362
+23:14:19 addons\anims_f.pbo - 79482
+23:14:19 addons\anims_f_bootcamp.pbo - 72362
+23:14:19 addons\anims_f_data.pbo - 79675
+23:14:19 addons\anims_f_epa.pbo - 78608
+23:14:19 addons\anims_f_epc.pbo - 72362
+23:14:19 addons\armor_f.pbo - 79398
+23:14:19 addons\armor_f_beta.pbo - 79681
+23:14:19 addons\armor_f_epb.pbo - 79681
+23:14:19 addons\armor_f_epc.pbo - 79398
+23:14:19 addons\armor_f_gamma.pbo - 79681
+23:14:19 addons\baseconfig_f.pbo - 73106
+23:14:19 addons\boat_f.pbo - 79398
+23:14:19 addons\boat_f_beta.pbo - 79398
+23:14:19 addons\boat_f_epc.pbo - 79398
+23:14:19 addons\boat_f_gamma.pbo - 79398
+23:14:19 addons\cargoposes_f.pbo - 78836
+23:14:19 addons\characters_f.pbo - 79649
+23:14:19 addons\characters_f_beta.pbo - 79398
+23:14:19 addons\characters_f_bootcamp.pbo - 79398
+23:14:19 addons\characters_f_epa.pbo - 79398
+23:14:19 addons\characters_f_epb.pbo - 79398
+23:14:19 addons\characters_f_epc.pbo - 79398
+23:14:19 addons\characters_f_gamma.pbo - 79398
+23:14:19 addons\data_f.pbo - 79651
+23:14:19 addons\data_f_bootcamp.pbo - 76960
+23:14:19 addons\drones_f.pbo - 79653
+23:14:19 addons\dubbing_f.pbo - 73106
+23:14:19 addons\dubbing_f_beta.pbo - 73106
+23:14:19 addons\dubbing_f_bootcamp.pbo - 73106
+23:14:19 addons\dubbing_f_epa.pbo - 73106
+23:14:19 addons\dubbing_f_epb.pbo - 76110
+23:14:19 addons\dubbing_f_epc.pbo - 73106
+23:14:19 addons\dubbing_f_gamma.pbo - 73106
+23:14:19 addons\dubbing_radio_f.pbo - 78704
+23:14:19 addons\dubbing_radio_f_data.pbo - 78762
+23:14:19 addons\editor_f.pbo - 74164
+23:14:19 addons\functions_f.pbo - 79623
+23:14:19 addons\functions_f_bootcamp.pbo - 78988
+23:14:19 addons\functions_f_epa.pbo - 73434
+23:14:19 addons\functions_f_epc.pbo - 73106
+23:14:19 addons\languagemissions_f.pbo - 76893
+23:14:19 addons\languagemissions_f_beta.pbo - 77325
+23:14:19 addons\languagemissions_f_bootcamp.pbo - 76770
+23:14:19 addons\languagemissions_f_epa.pbo - 76770
+23:14:19 addons\languagemissions_f_epb.pbo - 79149
+23:14:19 addons\languagemissions_f_epc.pbo - 76770
+23:14:19 addons\languagemissions_f_gamma.pbo - 77098
+23:14:19 addons\language_f.pbo - 79621
+23:14:19 addons\language_f_beta.pbo - 77325
+23:14:19 addons\language_f_bootcamp.pbo - 77492
+23:14:19 addons\language_f_epa.pbo - 76769
+23:14:19 addons\language_f_epb.pbo - 77476
+23:14:19 addons\language_f_epc.pbo - 77476
+23:14:19 addons\language_f_gamma.pbo - 77365
+23:14:19 addons\map_altis.pbo - 80359
+23:14:19 addons\map_altis_data.pbo - 79087
+23:14:19 addons\map_altis_data_layers.pbo - 79087
+23:14:19 addons\map_altis_data_layers_00_00.pbo - 79087
+23:14:19 addons\map_altis_data_layers_00_01.pbo - 79087
+23:14:19 addons\map_altis_data_layers_01_00.pbo - 79087
+23:14:19 addons\map_altis_data_layers_01_01.pbo - 79087
+23:14:19 addons\map_altis_scenes_f.pbo - 73106
+23:14:19 addons\map_data.pbo - 73001
+23:14:19 addons\map_stratis.pbo - 80359
+23:14:19 addons\map_stratis_data.pbo - 79082
+23:14:19 addons\map_stratis_data_layers.pbo - 79082
+23:14:19 addons\map_stratis_scenes_f.pbo - 73106
+23:14:19 addons\map_vr.pbo - 77601
+23:14:19 addons\map_vr_scenes_f.pbo - 73106
+23:14:19 addons\misc_f.pbo - 79398
+23:14:19 addons\missions_f.pbo - 78843
+23:14:19 addons\missions_f_beta.pbo - 79649
+23:14:19 addons\missions_f_beta_data.pbo - 75473
+23:14:19 addons\missions_f_beta_video.pbo - 73106
+23:14:19 addons\missions_f_bootcamp.pbo - 79463
+23:14:19 addons\missions_f_bootcamp_data.pbo - 72362
+23:14:19 addons\missions_f_bootcamp_video.pbo - 75065
+23:14:19 addons\missions_f_data.pbo - 73106
+23:14:19 addons\missions_f_epa.pbo - 79649
+23:14:19 addons\missions_f_epa_data.pbo - 73106
+23:14:19 addons\missions_f_epa_video.pbo - 73106
+23:14:19 addons\missions_f_epb.pbo - 79472
+23:14:19 addons\missions_f_epb_data.pbo - 73106
+23:14:19 addons\missions_f_epb_video.pbo - 73106
+23:14:19 addons\missions_f_epc.pbo - 79065
+23:14:19 addons\missions_f_epc_data.pbo - 73106
+23:14:19 addons\missions_f_epc_video.pbo - 73106
+23:14:19 addons\missions_f_gamma.pbo - 79649
+23:14:19 addons\missions_f_gamma_data.pbo - 76877
+23:14:19 addons\missions_f_gamma_video.pbo - 73106
+23:14:19 addons\missions_f_video.pbo - 73106
+23:14:19 addons\modules_f.pbo - 79398
+23:14:19 addons\modules_f_beta.pbo - 79398
+23:14:19 addons\modules_f_beta_data.pbo - 73635
+23:14:19 addons\modules_f_bootcamp.pbo - 79398
+23:14:19 addons\modules_f_data.pbo - 73106
+23:14:19 addons\modules_f_epb.pbo - 79398
+23:14:19 addons\music_f.pbo - 73106
+23:14:19 addons\music_f_bootcamp.pbo - 73106
+23:14:19 addons\music_f_bootcamp_music.pbo - 73106
+23:14:19 addons\music_f_epa.pbo - 73106
+23:14:19 addons\music_f_epa_music.pbo - 73106
+23:14:19 addons\music_f_epb.pbo - 73106
+23:14:19 addons\music_f_epb_music.pbo - 73106
+23:14:19 addons\music_f_epc.pbo - 73106
+23:14:19 addons\music_f_epc_music.pbo - 73106
+23:14:19 addons\music_f_music.pbo - 73106
+23:14:19 addons\plants_f.pbo - 80365
+23:14:19 addons\roads_f.pbo - 80359
+23:14:19 addons\rocks_f.pbo - 80359
+23:14:19 addons\signs_f.pbo - 80365
+23:14:19 addons\soft_f.pbo - 79398
+23:14:19 addons\soft_f_beta.pbo - 79398
+23:14:19 addons\soft_f_bootcamp.pbo - 79398
+23:14:19 addons\soft_f_epc.pbo - 79398
+23:14:19 addons\soft_f_gamma.pbo - 79398
+23:14:19 addons\sounds_f.pbo - 79437
+23:14:19 addons\sounds_f_bootcamp.pbo - 79398
+23:14:19 addons\sounds_f_epb.pbo - 79398
+23:14:19 addons\sounds_f_epc.pbo - 79398
+23:14:19 addons\sounds_f_vehicles.pbo - 79398
+23:14:19 addons\sounds_f_weapons.pbo - 79398
+23:14:19 addons\static_f.pbo - 79398
+23:14:19 addons\static_f_beta.pbo - 79398
+23:14:19 addons\static_f_gamma.pbo - 79420
+23:14:19 addons\structures_f.pbo - 80292
+23:14:19 addons\structures_f_bootcamp.pbo - 80293
+23:14:19 addons\structures_f_data.pbo - 79398
+23:14:19 addons\structures_f_epa.pbo - 80293
+23:14:19 addons\structures_f_epb.pbo - 80293
+23:14:19 addons\structures_f_epc.pbo - 80293
+23:14:19 addons\structures_f_households.pbo - 80293
+23:14:19 addons\structures_f_ind.pbo - 80292
+23:14:19 addons\structures_f_mil.pbo - 80292
+23:14:19 addons\structures_f_wrecks.pbo - 80293
+23:14:19 addons\uifonts_f.pbo - 73106
+23:14:19 addons\uifonts_f_data.pbo - 73106
+23:14:19 addons\ui_f.pbo - 79689
+23:14:19 addons\ui_f_bootcamp.pbo - 76325
+23:14:19 addons\ui_f_data.pbo - 79689
+23:14:19 addons\weapons_f.pbo - 79430
+23:14:19 addons\weapons_f_beta.pbo - 79398
+23:14:19 addons\weapons_f_bootcamp.pbo - 79398
+23:14:19 addons\weapons_f_epa.pbo - 79398
+23:14:19 addons\weapons_f_epb.pbo - 79398
+23:14:19 addons\weapons_f_epc.pbo - 79398
+23:14:19 addons\weapons_f_gamma.pbo - 79398
+23:14:19 
+23:14:19 =======================
+23:14:19 
+23:14:19 ============================================================================================= List of mods ===============================================================================================
+23:14:19 modsReadOnly = true
+23:14:19 safeModsActivated = false
+23:14:19 customMods = true
+23:14:19 hash = '4F69BB5BAFF3BE3C273D1E17A2D85C1A6ECA0D7E'
+23:14:19                                               name |               modDir |    default |               origin |                                     hash | fullPath
+23:14:19 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+23:14:19                                             @extDB |               @extDB |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 | D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@extDB
+23:14:19                                       @life_server |         @life_server |      false |             GAME DIR | 2daa305604c260050a1dba74f83453a5671b5373 | D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@life_server
+23:14:19                                  Arma 3 DLC Bundle |            dlcbundle |       true |            NOT FOUND |                                          | 
+23:14:19                                 Arma 3 Helicopters |                 heli |       true |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 | D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\heli
+23:14:19                                       Arma 3 Karts |                 kart |       true |             GAME DIR | e7475713fcaaa694d1a6d3154a54f9bbdc7c7b3f | D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\kart
+23:14:19                                        Arma 3 Zeus |              curator |       true |             GAME DIR | c0d67091cf7c84eac02aace7350f06fc08b7a43b | D:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\curator
+23:14:19                                             Arma 3 |                   A3 |       true |            NOT FOUND |                                          | 
+23:14:19 ==========================================================================================================================================================================================================
+23:14:19 InitSound ...
+23:14:19 InitSound - complete
+23:14:19 PhysX3 SDK Init started ...
+23:14:19 PhysX3 SDK Init ended.
+23:14:19 EPE manager release (0|0|0)
+23:14:19 EPE manager release (0|0|0)
+23:14:20 Attempt to override final function - rscminimap_script
+23:14:20 Attempt to override final function - rscdisplayloading_script
+23:14:20 Attempt to override final function - rscdisplayloading_script
+23:14:20 Attempt to override final function - rscdisplayloading_script
+23:14:20 Attempt to override final function - rscdiary_script
+23:14:20 Attempt to override final function - rscdisplaysinglemission_script
+23:14:20 Attempt to override final function - rscdiary_script
+23:14:20 Attempt to override final function - rscdisplayremotemissions_script
+23:14:20 Attempt to override final function - rscdisplayloading_script
+23:14:20 Attempt to override final function - rscdiary_script
+23:14:20 Attempt to override final function - rscdiary_script
+23:14:20 Attempt to override final function - rscdisplaystrategicmap_script
+23:14:20 Attempt to override final function - rscdisplaycommon_script
+23:14:20 Attempt to override final function - rscdisplayloading_script
+23:14:20 Attempt to override final function - rscdisplaycurator_script
+23:14:20 Attempt to override final function - rscdisplayattributes_script
+23:14:20 Attempt to override final function - rscdisplayattributes_script
+23:14:20 Attempt to override final function - rscdisplayattributes_script
+23:14:20 Attempt to override final function - rscdisplaycommon_script
+23:14:20 Attempt to override final function - rscdisplaydebriefing_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 Attempt to override final function - rscunitinfo_script
+23:14:21 EPE manager release (0|0|0)
+23:14:21 EPE manager release (0|0|0)
+23:14:22 Initializing Steam server - Game Port: 2302, Steam Query Port: 2303
+23:14:23 Connected to Steam servers
+23:23:17 EPE manager release (0|0|0)
+23:23:17 EPE manager release (0|0|0)
+23:23:17 Unsupported language English in stringtable
+23:23:17 EPE manager release (0|0|0)
+23:23:17 EPE manager release (0|0|0)
+23:23:17 Unsupported language English in stringtable
+23:23:18 Cannot find a sound file a3\sounds_f\arsenal\weapons\longrange\lynx\dry_lynx.wss
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:20 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:21 Server error: Player without identity Maboutou Sonoko (id 13868088)
+23:23:31 Starting mission:
+23:23:31  Mission file: Altis_Life
+23:23:31  Mission world: Altis
+23:23:31  Mission directory: mpmissions\Altis_Life.Altis\
+23:23:31 EPE manager release (0|0|0)
+23:23:31 EPE manager release (0|0|0)
+23:23:37 Strange convex component08 in a3\structures_f_epb\civ\garbage\garbagecontainer_closed_f.p3d:geometryView
+23:23:37 Strange convex component10 in a3\structures_f_epb\civ\garbage\garbagecontainer_closed_f.p3d:geometryView
+23:23:38 Strange convex component145 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+23:23:38 Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+23:23:40 Strange convex component01 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+23:23:40 Strange convex component02 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+23:23:40 Strange convex component03 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+23:23:40 Strange convex component04 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+23:23:48 EPE manager release (0|0|0)
+23:23:48 EPE manager release (0|0|0)
+23:23:48 Error in expression <_Transport_04_covered_F",800000];
+};
+};
+};
+
+_return;>
+23:23:48   Error position: <};
+
+_return;>
+23:23:48   Error Missing {
+23:23:48 File mpmissions\Altis_Life.Altis\core\config\fn_vehicleListCfg.sqf, line 210
+23:23:48 Error in expression <_Transport_04_covered_F",800000];
+};
+};
+};
+
+_return;>
+23:23:48   Error position: <};
+
+_return;>
+23:23:48   Error Missing {
+23:23:48 File mpmissions\Altis_Life.Altis\core\config\fn_vehicleListCfg.sqf, line 210
+23:23:48 Attempt to override final function - bis_functions_list
+23:23:48 Attempt to override final function - bis_functions_listpreinit
+23:23:48 Attempt to override final function - bis_functions_listpostinit
+23:23:48 Attempt to override final function - bis_functions_listrecompile
+23:23:48 Attempt to override final function - bis_fnc_missiontaskslocal
+23:23:48 Attempt to override final function - bis_fnc_missionconversationslocal
+23:23:48 Attempt to override final function - bis_fnc_missionflow
+23:23:49 Warning: looped for animation: a3\cargoposes_f\anim\passenger_scooter_01.rtm differs (looped now 1)! MoveName: passenger_scooter_01
+23:23:49 Warning: looped for animation: a3\cargoposes_f\anim\passenger_scooter_02.rtm differs (looped now 1)! MoveName: passenger_scooter_02
+23:23:54 No speaker given for Spencer Santorum
+23:23:54 No speaker given for Luke Thompson
+23:23:54 No speaker given for Spencer Davis
+23:23:54 No speaker given for Ashton Cooper
+23:23:54 No speaker given for Wallace Robinson
+23:23:54 No speaker given for Ryan Martin
+23:23:54 No speaker given for Harrison Allen
+23:23:54 No speaker given for Brian Baker
+23:23:54 No speaker given for Edward Bennett
+23:23:54 soldier[B_soldier_PG_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:23:54 soldier[B_soldier_PG_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+23:23:54 495d3900# 1813687: ttowerbig_2_f.p3d is not soldier nor transport.
+23:23:54 No transport
+23:23:54 No speaker given for Teshi Azikiwe
+23:23:55 Strange convex component53 in a3\structures_f_epb\civ\playground\slidecastle_f.p3d:geometryFire
+23:23:55 Strange convex component27 in a3\structures_f_epb\civ\playground\slidecastle_f.p3d:geometryView
+23:23:55 No speaker given for Imre Hoxha
+23:23:55 No speaker given for Ben Turner
+23:23:55 No speaker given for Shaan Igwe
+23:23:55 No speaker given for Luo Hwang
+23:23:56 No speaker given for Bao Sun
+23:23:56 No speaker given for George Bennett
+23:23:56 No speaker given for Matthew Smith
+23:23:56 No speaker given for Maalik Zambo
+23:23:56 No speaker given for Gula Achebe
+23:23:56 No speaker given for Zaim Sesse-Seko
+23:23:56 No speaker given for Yu Ong
+23:23:56 No speaker given for Dembe Sekibo
+23:23:56 No speaker given for Dumi Zambo
+23:23:57 No speaker given for Imre Osmani
+23:23:57 No speaker given for Mobutu Awolowo
+23:23:57 No speaker given for Harrison Burr
+23:23:57 No speaker given for Yang Wong
+23:23:57 No speaker given for William Stewart
+23:23:57 No speaker given for Fred Davis
+23:23:57 No speaker given for Lewis Smith
+23:23:57 No speaker given for Muhammad Gowon
+23:23:57 Error: Wheel reference not initialized
+23:23:57 4a73f200# 1813924: ttowerbig_2_f.p3d is not soldier nor transport.
+23:23:57 No transport
+23:23:57 4a73eb00# 1813925: ttowerbig_2_f.p3d is not soldier nor transport.
+23:23:57 No transport
+23:23:57 4a73e400# 1813926: ttowerbig_2_f.p3d is not soldier nor transport.
+23:23:57 No transport
+23:24:01 Strange convex component322 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+23:24:01 Strange convex component327 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+23:24:02 Error: Object(2 : 89) not found
+23:24:02 Error: Object(2 : 91) not found
+23:24:02 Error: Object(2 : 93) not found
+23:24:02 Error: Object(2 : 95) not found
+23:24:02 Error: Object(2 : 97) not found
+23:24:02 c:\w\stable\futura\lib\network\networkserver.cpp NetworkServer::OnClientStateChanged:NOT IMPLEMENTED - briefing!
+23:24:02 "extDB: Version: 20"
+23:24:02 "extDB: Connecté à la base de données."
+23:24:02 Attempt to override final function - bis_fnc_endmission
+23:24:25 "------------- Requête Client Query -------------"
+23:24:25 "QUERY: SELECT playerid, name, cash, bankacc, adminlevel, donatorlvl, civ_licenses, arrested, civ_gear, civ_position, alive FROM players WHERE playerid='76561198149834518'"
+23:24:25 "Temps à completer: 0.0350342 secondes"
+23:24:25 "Resultat: ["76561198149834518","Maboutou Sonoko",0,10000,"0","0","[]",0,"[]","[]",0]"
+23:24:25 "------------------------------------------------"
+23:24:30 "Prix du marché remis à zero!"
+23:24:30 "FSM executé"
+23:24:30 "Server FSM timer"
